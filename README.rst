@@ -2,6 +2,8 @@
 XLED - unofficial control of Twinkly - Smart Decoration LED lights
 ==================================================================
 
+XLED forked by samstreak to allow compatibility with Windows
+
 XLED is a python library and command line interface (CLI) to control
 `Twinkly`_ - Smart Decoration LED lights for Christmas.
 
